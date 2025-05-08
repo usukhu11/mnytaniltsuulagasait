@@ -623,7 +623,7 @@ section.experience{
 	cursor: pointer;
 }
 .experience-contents .experience-box img{
-	width: 65%;
+	width: 60%;
 	height: 100%;
 	object-fit: cover;
 	display: block;
