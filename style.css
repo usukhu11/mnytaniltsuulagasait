@@ -117,7 +117,7 @@ section.home{
 	}
 }
 .home .navbar .logo img{
-	width: 150px;
+	width: 100px;
 	height: auto;
 }
 .home .navbar .nav-list{
@@ -623,7 +623,7 @@ section.experience{
 	cursor: pointer;
 }
 .experience-contents .experience-box img{
-	width: 100%;
+	width: 65%;
 	height: 100%;
 	object-fit: cover;
 	display: block;
